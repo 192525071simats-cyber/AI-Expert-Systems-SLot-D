@@ -1,0 +1,2 @@
+Shortest path: ['A', 'C', 'F']
+Visited nodes: {'B', 'A', 'D', 'E', 'C'}
